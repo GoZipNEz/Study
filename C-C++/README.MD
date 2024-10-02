@@ -12,4 +12,14 @@
 3. [범위지정연산자(::)](https://blog.naver.com/28june/221242938305)
 - 멤버함수가 어느 클래스에 포함되어있는지 나타낼 때
 - 함수 안에서 전역변수에 접근할 때
-
+4. 상속 종류
+- [public 상속](https://blog.naver.com/28june/221275197731)
+  - public -> public
+  - protected -> protected
+- [private 상속](https://blog.naver.com/28june/221275224646)
+  - public -> private
+  - protected -> private
+- [protected 상속](https://blog.naver.com/28june/221275230123)
+  - public -> protected
+  - protected -> protected
+  - (protected가 없을 경우 private로 상속)
